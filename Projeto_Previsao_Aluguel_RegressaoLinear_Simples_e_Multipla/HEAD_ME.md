@@ -1,4 +1,4 @@
-# HEAD_ME: Passo a Passo do Processo de Regressão Linear
+# Passo a Passo do Processo de Regressão Linear
 
 ## Introdução
 Este documento detalha o processo de desenvolvimento de um modelo de regressão linear múltipla para prever o preço de aluguel de imóveis com base em variáveis independentes.
