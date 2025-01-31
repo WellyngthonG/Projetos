@@ -1,0 +1,5 @@
+ID do Anúncio,Teste A/B,Tipo de Anúncio,CTR,CPC,CPA,Data do Teste
+1,1,Texto,0.15,0.45,5.0,2025-01-01
+2,1,Imagem,0.18,0.5,4.8,2025-01-01
+3,2,Texto,0.2,0.4,4.5,2025-01-10
+4,2,Imagem,0.22,0.48,4.3,2025-01-10

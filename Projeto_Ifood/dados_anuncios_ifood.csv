@@ -1,0 +1,51 @@
+id_anuncio,categoria,impressões,cliques,conversões,posição_feed,tipo_imagem,ctr
+1,Entrega Grátis,2541,148,66,2,Animação,58
+2,Promoção,3324,221,15,3,Animação,66
+3,Entrega Grátis,3112,409,37,3,HD,131
+4,Entrega Grátis,1863,263,37,3,HD,141
+5,Promoção,1978,84,53,3,Animação,42
+6,Promoção,3056,498,93,1,Animação,163
+7,Entrega Grátis,1275,276,39,3,Animação,216
+8,Novo Restaurante,4514,150,71,2,Texto,33
+9,Entrega Grátis,534,480,84,1,HD,899
+10,Entrega Grátis,3652,180,98,2,Animação,49
+11,Entrega Grátis,2455,306,71,2,HD,125
+12,Entrega Grátis,2085,54,10,2,Texto,26
+13,Promoção,4443,267,36,3,Texto,0.06
+14,Entrega Grátis,3573,304,71,3,Animação,85
+15,Novo Restaurante,1521,447,86,1,Texto,294
+16,Promoção,3961,408,12,1,HD,103
+17,Novo Restaurante,3113,332,79,3,Animação,107
+18,Novo Restaurante,4343,442,81,2,HD,102
+19,Novo Restaurante,2000,256,36,1,HD,128
+20,Novo Restaurante,661,64,18,3,Texto,97
+21,Promoção,4797,395,71,3,Texto,82
+22,Promoção,2481,91,46,3,Texto,37
+23,Novo Restaurante,1495,429,60,2,Texto,287
+24,Novo Restaurante,3842,228,53,3,Texto,59
+25,Promoção,4298,112,33,3,Animação,26
+26,Promoção,1775,401,88,3,HD,226
+27,Promoção,1516,280,68,3,HD,185
+28,Entrega Grátis,837,290,41,1,HD,346
+29,Entrega Grátis,1378,101,97,1,HD,73
+30,Entrega Grátis,1576,145,61,3,Texto,92
+31,Novo Restaurante,4493,437,71,2,HD,97
+32,Entrega Grátis,879,271,67,1,Animação,308
+33,Novo Restaurante,992,456,61,3,Animação,0.46
+34,Novo Restaurante,2562,280,21,1,HD,109
+35,Entrega Grátis,4384,286,48,1,HD,65
+36,Novo Restaurante,564,192,11,2,Animação,0.34
+37,Entrega Grátis,3068,220,12,3,Animação,72
+38,Entrega Grátis,2527,78,65,3,Texto,31
+39,Promoção,3195,85,90,2,Animação,27
+40,Entrega Grátis,1995,62,68,2,Texto,31
+41,Promoção,891,209,11,3,Texto,235
+42,Entrega Grátis,4974,376,11,3,Texto,76
+43,Entrega Grátis,4061,236,63,2,Texto,58
+44,Promoção,2778,292,96,1,Texto,105
+45,Promoção,3599,135,10,1,HD,38
+46,Entrega Grátis,700,333,28,2,Animação,476
+47,Novo Restaurante,3604,115,11,1,Texto,32
+48,Promoção,2954,219,62,2,Animação,74
+49,Novo Restaurante,4145,94,53,1,Animação,23
+50,Novo Restaurante,1304,111,99,1,Texto,85
